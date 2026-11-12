@@ -1,0 +1,79 @@
+[
+    {
+        "Topic" : "Sustainability Perception",
+        "Assessment Criteria": [
+            "Sustainability has been an important consideration for a startup.",
+            "There is pressure felt from society to promote sustainability related to this business idea.",
+            "This startup team has carefully considered the impact on different stakeholders, e.g. environment, society."
+        ]
+    },
+    {
+        "Topic": "Classification: Social, Environmental, or Economic",
+        "Assessment Criteria":[
+            "Solving a social problem is a priority for the venture.",
+            "Solving an environmental problem is a priority for the venture.",
+            "Contributing to economic growth is a priority for the venture.",
+            "The venture prioritizes creating value for society.",
+            "The venture prioritizes maximizing profits / shareholder value.",
+            "The venture prioritzes creating value for the environment."
+        ]
+    },
+    {
+        "Topic" : "Social Sustainability Dimension",
+        "Assessment Criteria": [
+            "The vision of the venture is to clearly improve societal outcomes. (e.g., better access to services, fair working conditions, job security)",
+            "The business model includes a clear social benefit. (e.g. reduction of infant mortality or enhanced healthcare access in rural areas).",
+            "The product/service has a clear social added value. (e.g. improvement of working conditions, education,  transparency in the supply chain, promotion of equality, fight against poverty).",
+            "Tracking social impact is important for the venture. Key Performance Indicators (e.g., job creation, community benefits) have been discussed and planned.",
+            "Founder team & employee diversity is an important consideration for the company.",
+            "Recording and minimizing potential negative social effects is an important consideration for the venture. (e.g., preventing unsafe working conditions, unfair treatment, or other negative effects on people, also considering suppliers and outsourcing)."
+        ]
+    },
+    {
+        "Topic": "Environmental Sustainability Dimension",
+        "Assessment Criteria": [
+            "The venture aims to clearly improve environmental outcomes. (e.g., use fewer resources, create less waste)",
+            "The business model clearly includes an environmental benefit. (e.g., offering solutions that improve water quality or reduce environmental impact)",
+            "The product or service creates a clear environmental benefit (e.g., reducing CO₂, recycling materials, improving water quality, or helping adapt to climate change).",
+            "Tracking environmental impact (e.g., CO₂ savings, reduced waste) is important for the venture. (Key Performance Indicators have been discussed and planned.)",
+            "Recording and minimizing potential negative environmental effects is an important consideration for the venture. (e.g., things like avoiding pollution, reducing waste, or preventing harm to ecosystems).",
+            "Circular economy principles play an active role in the business model. (e.g., reusing materials, extending product life, or designing out waste.)"
+        ]
+    },
+    {
+        "Topic": "Economic Sustainability Dimension",
+        "Assessment Criteria": [
+            "The vision of the venture is to generate financial value for its owners or stakeholders. (e.g., financial growth, maximizing profitability)",
+            "The business model demonstrates a clear economic value proposition (e.g., a viable way to earn revenue or grow financially).",
+            "The product or service has a clear economic added value. (e.g., helping customers save costs or improving financial stability)",
+            "Tracking economic impact is important for the venture. Key Performance Indicators (e.g., revenue, costs, profitability) have been discussed and planned.",
+            "Recording and minimizing potential negative economic effects is an important consideration for the venture. (e.g., things like avoiding harm to regional businesses, unfair competition, or economic instability)"
+        ]
+    },
+    {
+        "Topic": "Scaling Orientation",
+        "Assessment Criteria":[
+            "What is the founding teams' intention to scale the venture? [1- Local, 2- Regional, 3 - National, 4- International, 5- Global]",
+            "The solution could be used or implemented in other regions or settings.",
+            "The venture is likely to grow to around 10 employees beyond the founding team within the first 3 years.",
+            "The venture is exploring growth opportunities beyond home market."
+        ]
+    },
+    {
+        "Topic": "SDGs",
+        "Assessment Criteria":[
+            "The SDG framework is an important consideration for the venture in assessing their sustainability."
+        ]
+    },
+    {
+        "Topic": "Team Competencies",
+        "Assessment Criteria": [
+            "The team has the skills and competencies needed to deliver the venture's core solution.",
+            "The team has the knowledge and skills needed to achieve the sustainability goals.",
+            "The team has sufficient knowledge of the venture's environmental impact.",
+            "The team has sufficient knowledge of the venture's social impact.",
+            "The team has sufficient knowledge of the venture's economic impact.",
+            "Sufficient knowledge to access and manage investment is available in the team."
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+{
+  "configurations": [
+    {
+      "id": "gpt_full_context",
+      "label": "GPT Full Context",
+      "provider": "GPT",
+      "method": "full_context",
+      "input_dir": "private/outputs/forecast_gpt_5.2"
+    },
+    {
+      "id": "gpt_rag",
+      "label": "GPT Question-level RAG",
+      "provider": "GPT",
+      "method": "rag",
+      "input_dir": "private/outputs/forecast_question_rag_openai_gpt_5_2"
+    },
+    {
+      "id": "gemini_full_context",
+      "label": "Gemini Full Context",
+      "provider": "Gemini",
+      "method": "full_context",
+      "input_dir": "private/outputs/forecast_gemini_3.1_pro"
+    },
+    {
+      "id": "gemini_rag",
+      "label": "Gemini Question-level RAG",
+      "provider": "Gemini",
+      "method": "rag",
+      "input_dir": "private/outputs/forecast_question_rag_google_gemini_3_1_pro_preview"
+    }
+  ],
+  "comparisons": [
+    {"id": "gpt", "label": "GPT", "full_context": "gpt_full_context", "rag": "gpt_rag"},
+    {"id": "gemini", "label": "Gemini", "full_context": "gemini_full_context", "rag": "gemini_rag"}
+  ]
+}

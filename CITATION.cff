@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Cite the version DOI after the authors publish the research-materials archive."
+type: software
+title: "AI Assisted Assessment of Sustainability Impact Potential for Early Stage Ventures: Research Materials"
+authors:
+  - family-names: Rahman
+    given-names: Sumyea
+  - family-names: Kratzer
+    given-names: Jan
+version: 1.0.0
+abstract: >-
+  Assessment and evaluation code, operational esSROI criteria, aggregated
+  criterion-level results, and scripts for regenerating manuscript tables and
+  numerical figures. Confidential business plans and record-level assessments
+  are excluded. This prepared snapshot has not yet been assigned an archive DOI.

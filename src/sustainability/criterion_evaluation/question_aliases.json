@@ -1,0 +1,20 @@
+{
+  "description": "Reviewed workbook wording variants; targets refer to the original 37-question rubric. No fuzzy matching is performed. The extra question about establishing a sustainable business model is intentionally not mapped.",
+  "aliases": [
+    {"text": "The venture prioritzes creating value for the environment.", "question_id": "Q009", "reason": "Spelling correction: prioritzes."},
+    {"text": "The business model includes a clear social benefit (e.g. reduction of infant mortality or enhanced healthcare access in rural areas).", "question_id": "Q011", "reason": "Punctuation before the example."},
+    {"text": "Recording and minimizing potential negative social effects is an important consideration for the venture. e.g. preventing unsafe working conditions, unfair treatment, or other negative effects on people, also considering suppliers and outsourcing.", "question_id": "Q015", "reason": "Example parentheses and punctuation."},
+    {"text": "Recording and minimizing potential negative environmental effects is an important consideration for the venture. e.g. things like avoiding pollution, reducing waste, or preventing harm to ecosystems.", "question_id": "Q020", "reason": "Example parentheses and punctuation."},
+    {"text": "Circular economy principles play an active role in the business model. e.g. reusing materials, extending product life, or designing out waste.", "question_id": "Q021", "reason": "Example parentheses and punctuation."},
+    {"text": "The vision of the venture is to generate financial value for its owners or stakeholders. E.g. (e.g., financial growth, maximizing profitability)", "question_id": "Q022", "reason": "Duplicated example introducer."},
+    {"text": "The business model demonstrates a clear economic value proposition (e.g., a viable way to earn revenue or grow financially)", "question_id": "Q023", "reason": "Missing terminal punctuation."},
+    {"text": "The product or service has a clear economic added value. e.g., helping customers save costs or improving financial stability", "question_id": "Q024", "reason": "Example parentheses and punctuation."},
+    {"text": "Recording and minimizing potential negative economic effects is an important consideration for the venture. E.g. things like avoiding harm to regional businesses, unfair competition, or economic instability", "question_id": "Q026", "reason": "Example parentheses and punctuation."},
+    {"text": "The venture is exploring growth opportunities beyond home market", "question_id": "Q030", "reason": "Missing terminal punctuation."},
+    {"text": "The SDG framework is an important consideration for assessing the sustainability of the venture.", "question_id": "Q031", "reason": "Equivalent word order in one workbook sheet."},
+    {"text": "The team has the skills and competencies needed to deliver the venture’s core solution", "question_id": "Q032", "reason": "Missing terminal punctuation."},
+    {"text": "The team has the knowledge and skills needed to achieve the venture’s sustainability goals.", "question_id": "Q033", "reason": "Explicit possessive identifies the same venture sustainability goals."},
+    {"text": "The team has sufficient knowledge of the venture’s environmental impact", "question_id": "Q034", "reason": "Missing terminal punctuation."},
+    {"text": "Sufficient Knowledge to access and manage impact investment is available in the team.", "question_id": "Q037", "reason": "Legacy workbook wording for the investment-access competency; the impact qualifier is retained in source_question_text."}
+  ]
+}

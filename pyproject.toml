@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "jbvd-sustainability-assessment"
+version = "1.0.0"
+description = "Research materials for AI assisted assessment of venture sustainability impact potential"
+requires-python = ">=3.10"
+authors = [{name = "Sumyea Rahman"}, {name = "Jan Kratzer"}]
+dependencies = ["numpy>=1.24", "pandas>=2.0", "matplotlib>=3.7", "openpyxl>=3.1"]
+
+[project.optional-dependencies]
+inference = ["openai>=1.99", "sentence-transformers>=2.7"]
+test = ["pytest>=7"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+"sustainability" = ["config/*.json"]
+"sustainability.criterion_evaluation" = ["*.json"]
+
+[tool.pytest.ini_options]
+testpaths = ["src/sustainability/criterion_evaluation/tests", "tests"]
+pythonpath = ["src"]

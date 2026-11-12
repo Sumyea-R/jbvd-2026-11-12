@@ -1,0 +1,190 @@
+[
+    {
+        "Topic" : "Sustainability Perception",
+        "Assessment Criteria": [
+            {
+                "question": "Sustainability has been an important consideration for a startup.",
+                "category": "Orientation"
+            },
+            {
+                "question": "There is pressure felt from society to promote sustainability related to this business idea.",
+                "category": "Orientation"
+            },
+            {
+                "question": "This startup team has carefully considered the impact on different stakeholders, e.g. environment, society.",
+                "category": "Orientation"
+            }
+        ]
+    },
+    {
+        "Topic": "Classification: Social, Environmental, or Economic",
+        "Assessment Criteria":[
+            {
+                "question": "Solving a social problem is a priority for the venture.",
+                "category": "Social"
+            },
+            {
+                "question": "Solving an environmental problem is a priority for the venture.",
+                "category": "Environmental"
+            },
+            {
+                "question": "Contributing to economic growth is a priority for the venture.",
+                "category": "Economic"
+            },
+            {
+                "question": "The venture prioritizes creating value for society.",
+                "category": "Social"
+            },
+            {
+                "question": "The venture prioritizes maximizing profits / shareholder value.",
+                "category": "Economic"
+            },
+            {
+                "question": "The venture prioritizes creating value for the environment.",
+                "category": "Environmental"
+            }
+        ]
+    },
+    {
+        "Topic" : "Social Sustainability Dimension",
+        "Assessment Criteria": [
+            {
+                "question": "The vision of the venture is to clearly improve societal outcomes. (e.g., better access to services, fair working conditions, job security)",
+                "category": "Social"
+            },
+            {
+                "question": "The business model includes a clear social benefit. (e.g. reduction of infant mortality or enhanced healthcare access in rural areas).",
+                "category": "Social"
+            },
+            {
+                "question": "The product/service has a clear social added value. (e.g. improvement of working conditions, education,  transparency in the supply chain, promotion of equality, fight against poverty).",
+                "category": "Social"
+            },
+            {
+                "question": "Tracking social impact is important for the venture. Key Performance Indicators (e.g., job creation, community benefits) have been discussed and planned.",
+                "category": "Social"
+            },
+            {
+                "question": "Founder team & employee diversity is an important consideration for the company.",
+                "category": "Social"
+            },
+            {
+                "question": "Recording and minimizing potential negative social effects is an important consideration for the venture. (e.g., preventing unsafe working conditions, unfair treatment, or other negative effects on people, also considering suppliers and outsourcing).",
+                "category": "Social"
+            }
+        ]
+    },
+    {
+        "Topic": "Environmental Sustainability Dimension",
+        "Assessment Criteria": [
+            {
+                "question": "The venture aims to clearly improve environmental outcomes. (e.g., use fewer resources, create less waste)",
+                "category": "Environmental"
+            },
+            {
+                "question": "The business model clearly includes an environmental benefit. (e.g., offering solutions that improve water quality or reduce environmental impact)",
+                "category": "Environmental"
+            },
+            {
+                "question": "The product or service creates a clear environmental benefit (e.g., reducing CO₂, recycling materials, improving water quality, or helping adapt to climate change).",
+                "category": "Environmental"
+            },
+            {
+                "question": "Tracking environmental impact (e.g., CO₂ savings, reduced waste) is important for the venture. (Key Performance Indicators have been discussed and planned.)",
+                "category": "Environmental"
+            },
+            {
+                "question": "Recording and minimizing potential negative environmental effects is an important consideration for the venture. (e.g., things like avoiding pollution, reducing waste, or preventing harm to ecosystems).",
+                "category": "Environmental"
+            },
+            {
+                "question": "Circular economy principles play an active role in the business model. (e.g., reusing materials, extending product life, or designing out waste.)",
+                "category": "Environmental"
+            }
+        ]
+    },
+    {
+        "Topic": "Economic Sustainability Dimension",
+        "Assessment Criteria": [
+            {
+                "question": "The vision of the venture is to generate financial value for its owners or stakeholders. (e.g., financial growth, maximizing profitability)",
+                "category": "Economic"
+            },
+            {
+                "question": "The business model demonstrates a clear economic value proposition (e.g., a viable way to earn revenue or grow financially).",
+                "category": "Economic"
+            },
+            {
+                "question": "The product or service has a clear economic added value. (e.g., helping customers save costs or improving financial stability)",
+                "category": "Economic"
+            },
+            {
+                "question": "Tracking economic impact is important for the venture. Key Performance Indicators (e.g., revenue, costs, profitability) have been discussed and planned.",
+                "category": "Economic"
+            },
+            {
+                "question": "Recording and minimizing potential negative economic effects is an important consideration for the venture. (e.g., things like avoiding harm to regional businesses, unfair competition, or economic instability)",
+                "category": "Economic"
+            }
+        ]
+    },
+    {
+        "Topic": "Scaling Orientation",
+        "Assessment Criteria":[
+            {
+                "question": "What is the founding teams' intention to scale the venture? [1- Local, 2- Regional, 3 - National, 4- International, 5- Global]",
+                "category": "Scaling"
+            },
+            {
+                "question": "The solution could be used or implemented in other regions or settings.",
+                "category": "Scaling"
+            },
+            {
+                "question": "The venture is likely to grow to around 10 employees beyond the founding team within the first 3 years.",
+                "category": "Scaling"
+            },
+            {
+                "question": "The venture is exploring growth opportunities beyond home market.",
+                "category": "Scaling"
+            }
+        ]
+    },
+    {
+        "Topic": "SDGs",
+        "Assessment Criteria":[
+            {
+                "question": "The SDG framework is an important consideration for the venture in assessing their sustainability.",
+                "category": "Orientation"
+            }
+        ]
+    },
+    {
+        "Topic": "Team Competencies",
+        "Assessment Criteria": [
+            {
+                "question": "The team has the skills and competencies needed to deliver the venture's core solution.",
+                "category": "Team Competencies"
+            },
+            {
+                "question": "The team has the knowledge and skills needed to achieve the sustainability goals.",
+                "category": "Team Competencies"
+            },
+            {
+                "question": "The team has sufficient knowledge of the venture's environmental impact.",
+                "category": "Team Competencies"
+            },
+            {
+                "question": "The team has sufficient knowledge of the venture's social impact.",
+                "category": "Team Competencies"
+            },
+            {
+                "question": "The team has sufficient knowledge of the venture's economic impact.",
+                "category": "Team Competencies"
+            },
+            {
+                "question": "Sufficient knowledge to access and manage investment is available in the team.",
+                "category": "Team Competencies"
+            }
+        ]
+    }
+]

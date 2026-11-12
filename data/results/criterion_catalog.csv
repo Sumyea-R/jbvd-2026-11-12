@@ -1,0 +1,39 @@
+question_id,topic,category,question_text,topic_index
+Q001,Sustainability Perception,Orientation,Sustainability has been an important consideration for a startup.,1
+Q002,Sustainability Perception,Orientation,There is pressure felt from society to promote sustainability related to this business idea.,2
+Q003,Sustainability Perception,Orientation,"This startup team has carefully considered the impact on different stakeholders, e.g. environment, society.",3
+Q004,"Classification: Social, Environmental, or Economic",Social,Solving a social problem is a priority for the venture.,1
+Q005,"Classification: Social, Environmental, or Economic",Environmental,Solving an environmental problem is a priority for the venture.,2
+Q006,"Classification: Social, Environmental, or Economic",Economic,Contributing to economic growth is a priority for the venture.,3
+Q007,"Classification: Social, Environmental, or Economic",Social,The venture prioritizes creating value for society.,4
+Q008,"Classification: Social, Environmental, or Economic",Economic,The venture prioritizes maximizing profits / shareholder value.,5
+Q009,"Classification: Social, Environmental, or Economic",Environmental,The venture prioritizes creating value for the environment.,6
+Q010,Social Sustainability Dimension,Social,"The vision of the venture is to clearly improve societal outcomes. (e.g., better access to services, fair working conditions, job security)",1
+Q011,Social Sustainability Dimension,Social,The business model includes a clear social benefit. (e.g. reduction of infant mortality or enhanced healthcare access in rural areas).,2
+Q012,Social Sustainability Dimension,Social,"The product/service has a clear social added value. (e.g. improvement of working conditions, education,  transparency in the supply chain, promotion of equality, fight against poverty).",3
+Q013,Social Sustainability Dimension,Social,"Tracking social impact is important for the venture. Key Performance Indicators (e.g., job creation, community benefits) have been discussed and planned.",4
+Q014,Social Sustainability Dimension,Social,Founder team & employee diversity is an important consideration for the company.,5
+Q015,Social Sustainability Dimension,Social,"Recording and minimizing potential negative social effects is an important consideration for the venture. (e.g., preventing unsafe working conditions, unfair treatment, or other negative effects on people, also considering suppliers and outsourcing).",6
+Q016,Environmental Sustainability Dimension,Environmental,"The venture aims to clearly improve environmental outcomes. (e.g., use fewer resources, create less waste)",1
+Q017,Environmental Sustainability Dimension,Environmental,"The business model clearly includes an environmental benefit. (e.g., offering solutions that improve water quality or reduce environmental impact)",2
+Q018,Environmental Sustainability Dimension,Environmental,"The product or service creates a clear environmental benefit (e.g., reducing CO₂, recycling materials, improving water quality, or helping adapt to climate change).",3
+Q019,Environmental Sustainability Dimension,Environmental,"Tracking environmental impact (e.g., CO₂ savings, reduced waste) is important for the venture. (Key Performance Indicators have been discussed and planned.)",4
+Q020,Environmental Sustainability Dimension,Environmental,"Recording and minimizing potential negative environmental effects is an important consideration for the venture. (e.g., things like avoiding pollution, reducing waste, or preventing harm to ecosystems).",5
+Q021,Environmental Sustainability Dimension,Environmental,"Circular economy principles play an active role in the business model. (e.g., reusing materials, extending product life, or designing out waste.)",6
+Q022,Economic Sustainability Dimension,Economic,"The vision of the venture is to generate financial value for its owners or stakeholders. (e.g., financial growth, maximizing profitability)",1
+Q023,Economic Sustainability Dimension,Economic,"The business model demonstrates a clear economic value proposition (e.g., a viable way to earn revenue or grow financially).",2
+Q024,Economic Sustainability Dimension,Economic,"The product or service has a clear economic added value. (e.g., helping customers save costs or improving financial stability)",3
+Q025,Economic Sustainability Dimension,Economic,"Tracking economic impact is important for the venture. Key Performance Indicators (e.g., revenue, costs, profitability) have been discussed and planned.",4
+Q026,Economic Sustainability Dimension,Economic,"Recording and minimizing potential negative economic effects is an important consideration for the venture. (e.g., things like avoiding harm to regional businesses, unfair competition, or economic instability)",5
+Q027,Scaling Orientation,Scaling,"What is the founding teams' intention to scale the venture? [1- Local, 2- Regional, 3 - National, 4- International, 5- Global]",1
+Q028,Scaling Orientation,Scaling,The solution could be used or implemented in other regions or settings.,2
+Q029,Scaling Orientation,Scaling,The venture is likely to grow to around 10 employees beyond the founding team within the first 3 years.,3
+Q030,Scaling Orientation,Scaling,The venture is exploring growth opportunities beyond home market.,4
+Q031,SDGs,Orientation,The SDG framework is an important consideration for the venture in assessing their sustainability.,1
+Q032,Team Competencies,Team Competencies,The team has the skills and competencies needed to deliver the venture's core solution.,1
+Q033,Team Competencies,Team Competencies,The team has the knowledge and skills needed to achieve the sustainability goals.,2
+Q034,Team Competencies,Team Competencies,The team has sufficient knowledge of the venture's environmental impact.,3
+Q035,Team Competencies,Team Competencies,The team has sufficient knowledge of the venture's social impact.,4
+Q036,Team Competencies,Team Competencies,The team has sufficient knowledge of the venture's economic impact.,5
+Q037,Team Competencies,Team Competencies,Sufficient knowledge to access and manage investment is available in the team.,6
+
