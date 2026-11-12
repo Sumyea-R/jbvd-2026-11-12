@@ -1,15 +1,7 @@
 # AI assisted assessment of venture sustainability impact potential
 
-Research materials for **AI Assisted Assessment of Sustainability Impact
-Potential for Early Stage Ventures**, by Sumyea Rahman and Jan Kratzer.
-
-This is a curated snapshot for the Journal of Business Venturing Design
-manuscript, prepared as Supplementary Material S1,
-`JBVD_Research_Materials.zip`. It contains full-context and criterion-level RAG
-assessment scripts, prompts, the 37 operational esSROI criteria, criterion-level
-evaluation code, and the shareable aggregate result exports. It is not yet a
-published archival deposit: a public repository URL and version DOI have not
-been assigned. The source snapshot is identified in `SOURCE_PROVENANCE.json`.
+Source materials for **AI Assisted Assessment of Sustainability Impact
+Potential for Early Stage Ventures**, by Sumyea Rahman.
 
 ## What can be reproduced
 
@@ -88,16 +80,3 @@ RAG MAE minus full-context MAE; positive values favor full context. Bootstrap
 intervals are pointwise and exploratory. See
 [`docs/data_dictionary.md`](docs/data_dictionary.md) for all exported fields.
 
-## Publication and citation
-
-The manuscript cites this package as Supplementary Material S1 and includes
-its caption and confidentiality statement. Before final submission, deposit
-the fixed snapshot in an archive, add its actual version DOI to the manuscript
-and `CITATION.cff`, and select the intended code/data licenses. No license was
-specified in the original source, and this snapshot does not introduce one.
-See [`LICENSE_STATUS.md`](LICENSE_STATUS.md) and
-[`docs/publication.md`](docs/publication.md) for the remaining publication steps.
-
-Use a new repository with fresh history for the public materials. The private
-development repository contains restricted records and is not the publication
-repository. `CHECKSUMS.sha256` identifies the files in this fixed snapshot.
